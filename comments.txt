@@ -1,0 +1,5 @@
+ScreenShot
+
+https://www.youtube.com/watch?v=RIaVQSEUHnY&t=0s
+
+https://github.com/youtube-programmercpp/Y220530_WinApi
